@@ -1,29 +1,11 @@
-# vue-note-app
+# [vue-note-app](https://vue-note-app-82a49.firebaseapp.com) 
+My first PWA with Vue.js ([alternate link](https://vue-note-app-82a49.web.app)) 
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Used:
+- Npm
+- Vue CLI
+- Vuetify
+- Vue-router
+- vuelidate
+- Service Workers (Workbox)
+- firebase (Authentication, Database, Hosting)
